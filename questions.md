@@ -34,12 +34,13 @@ Give a range [a, b) and number n, write a function in any language you are comfo
 
 # reactjs
 
-How do your process state ?
-reactjs different from other framework? 
-pros and cons 
+* How do your process state ?
+* reactjs different from other framework? 
+* pros and cons 
 
 
 # javascript
 
-closure ?
-let vs var ?
+* closure ?
+* let vs var ?
+* prototype vs object-oriented
