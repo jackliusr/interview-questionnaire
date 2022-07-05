@@ -25,7 +25,8 @@ erDiagram
 
 Find the top 10 voluable customers
 ```SQL
-
+select 
+from CUSTOMER
 ```
 
 
