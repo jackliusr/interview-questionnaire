@@ -34,7 +34,7 @@ Find the top 10 voluable customers
 
 * overriding vs overloading
 * OOP principles
-* functional programming  vs oop languages
+* functional programming languages  vs oop languages
 
 # algo
 
