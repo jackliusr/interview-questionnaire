@@ -49,3 +49,13 @@ C, Java, Bash script, Awk, PL/SQL, Html, CSS, JavaScript
 
   functor
 
+
+# how to archive high level SLA?
+
+# how to detect fake/attacker requests ?
+
+# 断流
+
+# 怎么看待国内的内卷现象？
+
+# 怎么实现实时数据的迁移？
