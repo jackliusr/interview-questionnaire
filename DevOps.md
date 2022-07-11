@@ -21,7 +21,7 @@ C, Java, Bash script, Awk, PL/SQL, Html, CSS, JavaScript
 
 
     /var/logs/app-YYYY-MM-DD.log 
-    错误代码： ERR-0004
+    错误代码： ERR-####
     查找那些天出错，并排序。
 
 # MySQL
@@ -59,3 +59,4 @@ C, Java, Bash script, Awk, PL/SQL, Html, CSS, JavaScript
 # 怎么看待国内的内卷现象？
 
 # 怎么实现实时数据的迁移？
+   总是有延迟？怎么解决？
