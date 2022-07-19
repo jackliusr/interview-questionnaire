@@ -59,10 +59,6 @@ from CUSTOMER
 
 
 
-
-# flutter, dart 
-
-
 # misc
 
 * What was your big challenge in your current job? How do you handle that?
