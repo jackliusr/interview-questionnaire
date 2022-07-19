@@ -33,9 +33,9 @@ from CUSTOMER
 
 # language
 
-* overriding vs overloading
-* OOP principles
-* functional programming languages  vs oop languages
+* What the difference between overriding and overloading
+* What's OOP principles
+* What the difference between functional programming languages
 
 # algo
 
